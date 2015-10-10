@@ -1,0 +1,7 @@
+
+#gitbook out file
+
+post/
+_post/
+*.pdf
+*.html
